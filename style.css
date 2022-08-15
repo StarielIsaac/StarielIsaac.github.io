@@ -1,0 +1,31 @@
+body{
+    background-color: #091018;
+    color: #CAD6E1;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    line-height: 30px;
+    font-size: 25px;
+
+}
+
+#ft-inicial{
+    border-radius: 50%;
+    width: 300px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.principal{
+   font-weight: 600;
+   font-size: 40px;
+}
+
+#footer{
+    color: orangered;
+    font-size: 15px;
+}
+
